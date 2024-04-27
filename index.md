@@ -4,7 +4,7 @@ Dopamine是一款**无根越狱工具，只需自己ID签名即可，支持A8-A1
 [Dopamine历史版本下载](https://github.com/liyu-qi/Dopamine-jailbreak/releases "喜欢的话就关注李子吧")  
 [Dopamine官方版巨魔安装](apple-magnifier://install?url=https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/Dopamine/Dopamine.ipa)  
 [Dopamine2.1修改版巨魔安装](apple-magnifier://install?url=https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/untagged-fb3bde44fa29ee2a9b86/Dopamine2.1.m.tipa)  
-[Dopamine下载](https://github.com/liyu-qi/Dopamine-jailbreak/blob/main/%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BF%AE%E6%94%B9%E7%89%88%E6%8C%82%E8%BD%BD%E6%95%99%E7%A8%8B.txt "喜欢的话就关注李子吧")  
+[挂载教程（修改系统目录）](https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/mount/default.txt "喜欢的话就关注李子吧")  
 修改版：  
 1.首页增加“重启”按钮.长按首页任意位置弹出  
 2.设置增加“映射挂载”功能，长按“设置”里面任意位置开启/关闭显示，基于采用真皮大佬的代码，再次感谢他！！！  

@@ -1,0 +1,48 @@
+哈喽大家好我是你们的老李子今天给大家来一期多巴胺修改版的挂载教程
+1.安装李子博客上的（修改版/官方版）多巴胺
+2.点击越狱
+3.弹出窗口设置密码
+--修改版--
+4.再次打开多巴胺
+5.点设置
+6.找到最下面的挂载并点击
+7.输入目录确定即可
+--官方版--
+4.安装NewTerm3终端
+5.打开终端重设密码（把输入法改为英文，三指轻点粘贴代码）
+mobile～：sudo su
+密码：越狱时的密码（输入时不显示）
+…/…/root# ：passwd
+old passwd：回车 
+new passwd：alpine
+new passwd：alpine
+成功
+…/…/root# ：passwd mobile
+old passwd：回车 
+new passwd：alpine
+new passwd：alpine
+成功
+新建一页
+mobile～：su
+密码
+alpine
+…/…/root# ：
+root密码更改成功！
+新建一页
+mobile～：sudo su
+密码
+alpine
+mbile密码更改成功！
+6.输入命令（依行依次输入）
+sudo su
+mount_path=/System/Library/ThermalMonitor
+target_path=/var/jb$mount_path
+if [ ! -d "$target_path" ]; then
+mkdir -p "$target_path" 
+fi
+cp -a "$mount_path" "$target_path"
+jbctl internal mount "$mount_path"
+7.再安装赵楠源里的挂载进行挂载就可以喽（赵楠源：https://invalidunit.github.io/repo/）
+8终端输入
+mount_bindfs -s+空格+目录
+9重启重新越狱

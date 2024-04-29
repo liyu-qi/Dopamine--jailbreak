@@ -2,8 +2,7 @@
 Dopamine是一款**无根越狱工具，只需自己ID签名即可，支持A8-A11（iOS15-16.6.1），A11以上（iOS15-16.5）**  
 [Dopamine下载](https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/Dopamine/Dopamine.ipa "喜欢的话就关注李子吧")  
 [Dopamine历史版本下载](https://github.com/liyu-qi/Dopamine-jailbreak/releases "喜欢的话就关注李子吧")  
-[Dopamine官方版巨魔安装](apple-magnifier://install?url=https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/Dopamine/Dopamine.ipa)  
-[Dopamine2.1修改版巨魔安装](apple-magnifier://install?url=https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/untagged-fb3bde44fa29ee2a9b86/Dopamine2.1.m.tipa)  
+[Dopamine2.1修改版巨魔安装](https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/untagged-fb3bde44fa29ee2a9b86/Dopamine2.1.m.tipa)  
 [挂载教程（挂载后可修改系统目录，请到到/var/jb）](https://github.com/liyu-qi/Dopamine-jailbreak/releases/download/mount/default.txt "喜欢的话就关注李子吧")  
 修改版：  
 1.首页增加“重启”按钮.长按首页任意位置弹出  
